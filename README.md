@@ -1,4 +1,4 @@
-# Customer Churn Analysis – Telecom Company 📊
+# Customer Churn Analysis – Telecom Company 
 
 ## Project Overview
 This project analyzes customer churn for a fictional telecommunications company to identify key factors associated with customer cancellations and revenue loss. The analysis focuses on understanding how contract types, promotional offers, service add-ons, customer tenure, and churn reasons impact customer retention.
